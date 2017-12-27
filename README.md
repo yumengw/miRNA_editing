@@ -1,5 +1,5 @@
 # miRNA editing
-This is the instruction for running miRNA editing events calling pipeline [ref](#Reference).
+This is the instruction for running miRNA editing events calling pipeline.
 
 ## Usage
 * Input file: TCGA miRNA-seq bam file.
@@ -24,7 +24,7 @@ This is the instruction for running miRNA editing events calling pipeline [ref](
 * Math::CDF
 
 ## Reference
-* Wang, Yumeng, et al. "Systematic characterization of A-to-I RNA editing hotspots in microRNAs across human cancers." Genome Research (2017).
+* Wang, Yumeng, et al. "Systematic characterization of A-to-I RNA editing hotspots in microRNAs across human cancers." Genome Research (2017). [link](http://genome.cshlp.org/content/early/2017/05/23/gr.219741.116.abstract)
 
 ## Copyright
 * (c) Copyright The University of Texas MD Anderson Cancer Center,
